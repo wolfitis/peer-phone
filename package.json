@@ -2,7 +2,7 @@
   "name": "peer_phone",
   "version": "1.0.0",
   "description": "peer-to-peer phone using webRTC",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node index.js"
   },
